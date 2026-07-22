@@ -11,8 +11,8 @@
 
   function jsonbinConfig() {
     return {
-      key: '$2a$10$Gjdo2ch8GCzdk8JlngS9weJ9c.l17.zGbwoLZJ3X6Ro/O/Vj1nCoC',
-      bin: '6a5fd787da38895dfe7ca4f7',
+      key: '$2a$10$gjihOrGwMwC1/21YS2lmE.VpBgZvstnkZtKrUF1pTsAXGYgKM9K9K',
+      bin: '6a60b3f1f5f4af5e29b0af22',
     };
   }
 
